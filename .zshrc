@@ -205,3 +205,8 @@ bindkey -s ^f "~/Work/tmp/tmux-manager\n"
 
 # Herd injected PHP 7.4 configuration.
 export HERD_PHP_74_INI_SCAN_DIR="/Users/rafaelgodoy/Library/Application Support/Herd/config/php/74/"
+
+# Generated for envman. Do not edit.
+[ -s "$HOME/.config/envman/load.sh" ] && source "$HOME/.config/envman/load.sh"
+
+export PATH="export PATH=$PATH:/usr/local/go/bin"
